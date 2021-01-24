@@ -1,0 +1,24 @@
+{
+  "name": "uptone-backend",
+  "version": "1.0.0",
+  "description": "Serving the Server-Side Needs of UpTone Application ✨💥",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nibragimov/UpTone-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nibragimov/UpTone-Backend/issues"
+  },
+  "homepage": "https://github.com/nibragimov/UpTone-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.13"
+  }
+}
